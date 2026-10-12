@@ -1,0 +1,1 @@
+Created hotel booking dashboard
